@@ -1,5 +1,82 @@
 # [testing]
-127.0.0.1 horrocks.net
-127.0.0.1 https://www.horrocks.net/
 ||horrocks.com^
 ||horrocks.net^
+
+# [disneyplus]
+||disney-plus.net^
+||disneyplus.com^
+||disneyplus.disney.co.jp^
+||dssott.com^
+||dssott.com.c.footprint.net^
+||search-api-disney.bamgrid.com^
+
+# [facebook]
+||api.facebook.com^
+||b-www.facebook.com^
+||fb.com^
+||fb.me^
+||gateway.facebook.com^
+||lithium.facebook.com^
+||lookaside.facebook.com^
+||m.facebook.com^
+||www.facebook.com^
+
+# [hbomax]
+||hbomax.com^
+||max.com^
+
+# [hulu]
+||hulu.com^
+
+# [netflix]
+||netflix.com^
+||netflix.net^
+||nflxext.com^
+||nflximg.net^
+||nflxso.net^
+||nflxvideo.net^
+||nflxsearch.net^
+||nflxmulti.net^
+||nflxpl.com^
+||uiboot.netflix.com^
+||api-global.netflix.com^
+||api-www.netflix.com^
+||ios.prod.ftl.netflix.com^
+||android.prod.ftl.netflix.com^
+||help.netflix.com^
+||movies.netflix.com^
+||secure.netflix.com^
+||signup.netflix.com^
+||assets.nflxext.com^
+||cds-api.netflix.com^
+||nrdp.prod.cloud.netflix.com^
+||nrdp-ipv6.prod.ftl.netflix.com^
+||cdn-0.nflximg.com^
+||occ-0-3329-299.1.nflxso.net^
+||ichnaea.netflix.com^
+||logging.netflix.com^
+||metrics.netflix.com^
+
+# [prime]
+||primevideo.com^
+||amazonvideo.com^
+
+# [youtube]
+||googlevideo.com^
+||youtu.be^
+||youtube^
+||youtube-nocookie.com^
+||youtube.be^
+||youtube.co.uk^
+||youtube.com^
+||youtube.de^
+||youtube.fr^
+||youtube.googleapis.com^
+||youtube.nl^
+||youtube.pl^
+||youtubeeducation.com^
+||youtubegaming.com^
+||youtubei.googleapis.com^
+||youtubekids.com^
+||yt3.ggpht.com^
+||ytimg.com^
